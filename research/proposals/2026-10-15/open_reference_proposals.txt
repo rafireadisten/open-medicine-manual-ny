@@ -1,0 +1,90 @@
+OPEN MEDICINE MANUAL NY — OPENLY READABLE REFERENCE ARTICLE PROPOSALS
+Date: 2026-10-15 | Initial verified proposal set (14 records)
+
+All links were located in publicly accessible official/publisher/PMC pages during this review. Openly accessible is NOT equivalent to unrestricted license. These are proposed guidance references, not completed X1 studies or PICOT reviews. Currentness vs 2026 superseding versions and project evidence tiers require editorial review. VA/DoD remains separate.
+
+OMM-REF-001 | Week 1 | Civilian [L2]
+Guideline for the pharmacological treatment of hypertension in adults (2021) — WHO
+Focus: Treatment initiation and monitoring thresholds
+Open link: https://www.who.int/publications/i/item/9789240033986
+X1/PICOT: pending source-specific primary study selection
+
+OMM-REF-002 | Week 2 | Civilian [L2]
+2023 Guideline for Diagnosis and Management of Atrial Fibrillation (2023) — ACC/AHA/ACCP/HRS
+Focus: Stroke prevention and anticoagulation
+Open link: https://pmc.ncbi.nlm.nih.gov/articles/PMC11095842/
+X1/PICOT: pending source-specific primary study selection
+
+OMM-REF-003 | Week 3 | Civilian [L3]
+GOLD 2024: a brief overview of key changes (2023) — GOLD authors
+Focus: COPD assessment and pharmacotherapy
+Open link: https://pmc.ncbi.nlm.nih.gov/articles/PMC10760434/
+X1/PICOT: pending source-specific primary study selection
+
+OMM-REF-004 | Week 4 | Civilian [L2]
+KDIGO 2024 CKD Guideline Executive Summary (2024) — KDIGO
+Focus: CKD classification and risk-based treatment
+Open link: https://kdigo.org/guidelines/ckd-evaluation-and-management/kdigo-2024-ckd-guideline-executive-summary/
+X1/PICOT: pending source-specific primary study selection
+
+OMM-REF-005 | Week 5 | Civilian [L2]
+Standards of Care in Diabetes 2025: Pharmacologic Approaches to Glycemic Treatment (2025) — ADA
+Focus: Glycemic treatment individualization
+Open link: https://pmc.ncbi.nlm.nih.gov/articles/PMC11635045/
+X1/PICOT: pending source-specific primary study selection
+
+OMM-REF-006 | Week 6 | Civilian [L2]
+Clinical Guideline: Diagnosis and Management of Gastroesophageal Reflux Disease (2022) — ACG
+Focus: PPI treatment and diagnostic triage
+Open link: https://pmc.ncbi.nlm.nih.gov/articles/PMC8754510/
+X1/PICOT: pending source-specific primary study selection
+
+OMM-REF-007 | Week 8 | Civilian [L2]
+Core Infection Prevention and Control Practices for Safe Healthcare Delivery in All Settings (2024) — CDC
+Focus: Standard precautions in outpatient and inpatient settings
+Open link: https://www.cdc.gov/infection-control/hcp/core-practices/index.html
+X1/PICOT: pending source-specific primary study selection
+
+OMM-REF-008 | Week 8 | Civilian [L2]
+Consolidated Guidelines on Tuberculosis Module 1: Prevention, second edition (2024) — WHO
+Focus: Tuberculosis preventive treatment
+Open link: https://www.who.int/publications/i/item/9789240096196
+X1/PICOT: pending source-specific primary study selection
+
+OMM-REF-009 | Week 11 | VA/DoD [VA-DOD]
+Management of Major Depressive Disorder (2022) — VA/DoD
+Focus: Initial treatment and advanced care management
+Open link: https://www.healthquality.va.gov/guidelines/MH/mdd/
+X1/PICOT: pending source-specific primary study selection
+
+OMM-REF-010 | Week 14 | Civilian [L2]
+Colorectal Cancer: Screening Recommendation (2021) — USPSTF
+Focus: Average-risk colorectal screening age thresholds
+Open link: https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/colorectal-cancer-screening
+X1/PICOT: pending source-specific primary study selection
+
+OMM-REF-011 | Week 14 | Civilian [L2]
+Standards of Care in Diabetes 2025: Prevention or Delay of Diabetes and Associated Comorbidities (2025) — ADA
+Focus: Prediabetes prevention and follow-up
+Open link: https://pmc.ncbi.nlm.nih.gov/articles/PMC11635039/
+X1/PICOT: pending source-specific primary study selection
+
+OMM-REF-012 | Week 16 | Civilian [L2]
+Standards of Care in Diabetes 2025: Diabetes Care in the Hospital (2025) — ADA
+Focus: Inpatient glucose management
+Open link: https://pmc.ncbi.nlm.nih.gov/articles/PMC11635037/
+X1/PICOT: pending source-specific primary study selection
+
+OMM-REF-013 | Week 5 | Civilian [L3]
+Standards of Care in Diabetes 2025 Abridged for Primary Care (2025) — ADA Primary Care Advisory Group
+Focus: Primary care diabetes implementation
+Open link: https://pmc.ncbi.nlm.nih.gov/articles/PMC12018997/
+X1/PICOT: pending source-specific primary study selection
+
+OMM-REF-014 | Week 8 | Civilian [L3]
+Operational Handbook on Tuberculosis Module 1: Prevention, second edition (2024) — WHO
+Focus: Implementing TB preventive treatment
+Open link: https://www.who.int/publications/i/item/9789240097773
+X1/PICOT: pending source-specific primary study selection
+
+Next steps: confirm current guideline version; verify precise recommendation and strength; select directly supporting X1 primary study; write PICOT including numerical outcomes; obtain clinician signoff.

@@ -1,0 +1,186 @@
+OPEN MEDICINE MANUAL NY - 26-WEEK CURRICULUM ALIGNED REFERENCE PROPOSALS
+============================================================================
+Generated 2026-10-15. Editorial proposals, not validated clinical references.
+Each week contains three subtopic mapping rows. One anchor reference per week does NOT establish coverage of every subtopic. Separate civilian and VA/DoD mapping remains incomplete.
+
+WEEK 01: Cardiovascular I: hypertension and ASCVD prevention
+  SUBTOPICS: Hypertension; ASCVD risk; Lipid management
+  ANCHOR: VA/DoD Hypertension in Primary Care (2026) [VA/DOD]
+  URL: https://www.healthquality.va.gov/guidelines/CD/htn/index.asp
+  LINK CLASS: verified_official_portal
+  COVERAGE: subtopic-specific reference supplementation needed; X1/PICOT pending
+
+WEEK 02: Cardiovascular II: CAD, heart failure and arrhythmias
+  SUBTOPICS: Coronary artery disease; Heart failure; Atrial fibrillation
+  ANCHOR: 2023 ACC/AHA/ACCP/HRS Atrial Fibrillation Guideline [CIVILIAN]
+  URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC11095842/
+  LINK CLASS: verified_open_full_text
+  COVERAGE: subtopic-specific reference supplementation needed; X1/PICOT pending
+
+WEEK 03: Pulmonary I: asthma and COPD
+  SUBTOPICS: Asthma; COPD; Pulmonary function testing
+  ANCHOR: GOLD COPD Global Strategy [CIVILIAN]
+  URL: https://goldcopd.org/
+  LINK CLASS: official_portal_review_required
+  COVERAGE: subtopic-specific reference supplementation needed; X1/PICOT pending
+
+WEEK 04: Pulmonary II: pneumonia, PE and respiratory failure
+  SUBTOPICS: Community-acquired pneumonia; Pulmonary embolism; Respiratory failure
+  ANCHOR: ATS Clinical Practice Guidelines [CIVILIAN]
+  URL: https://www.thoracic.org/statements/
+  LINK CLASS: official_portal_review_required
+  COVERAGE: subtopic-specific reference supplementation needed; X1/PICOT pending
+
+WEEK 05: Endocrinology I: diabetes mellitus
+  SUBTOPICS: T2DM pharmacotherapy; Diabetes complications; Diabetes prevention
+  ANCHOR: VA/DoD Management of Type 2 Diabetes (2023) [VA/DOD]
+  URL: https://healthquality.va.gov/HEALTHQUALITY/guidelines/CD/diabetes/index.asp
+  LINK CLASS: verified_official_portal
+  COVERAGE: subtopic-specific reference supplementation needed; X1/PICOT pending
+
+WEEK 06: Endocrinology II: thyroid, adrenal and metabolic disorders
+  SUBTOPICS: Hypothyroidism; Adrenal insufficiency; Obesity and metabolic disease
+  ANCHOR: Endocrine Society Clinical Practice Guidelines [CIVILIAN]
+  URL: https://www.endocrine.org/clinical-practice-guidelines
+  LINK CLASS: official_portal_review_required
+  COVERAGE: subtopic-specific reference supplementation needed; X1/PICOT pending
+
+WEEK 07: Renal I: CKD and AKI
+  SUBTOPICS: CKD staging; CKD risk reduction; AKI diagnosis
+  ANCHOR: KDIGO 2024 CKD Guideline [CIVILIAN]
+  URL: https://kdigo.org/guidelines/ckd-evaluation-and-management/
+  LINK CLASS: verified_official_portal
+  COVERAGE: subtopic-specific reference supplementation needed; X1/PICOT pending
+
+WEEK 08: Renal II: electrolytes and acid-base disorders
+  SUBTOPICS: Potassium disorders; Hyponatremia; Acid-base interpretation
+  ANCHOR: KDIGO 2024 CKD Guideline - potassium and related sections [CIVILIAN]
+  URL: https://kdigo.org/wp-content/uploads/2026/04/KDIGO-2024-CKD-Guideline.pdf
+  LINK CLASS: verified_open_full_text
+  COVERAGE: subtopic-specific reference supplementation needed; X1/PICOT pending
+
+WEEK 09: Gastroenterology I: GERD, dyspepsia and GI bleeding
+  SUBTOPICS: GERD; Dyspepsia; GI bleeding
+  ANCHOR: ACG Diagnosis and Management of GERD [CIVILIAN]
+  URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC8754510/
+  LINK CLASS: verified_open_full_text
+  COVERAGE: subtopic-specific reference supplementation needed; X1/PICOT pending
+
+WEEK 10: Gastroenterology II: liver and pancreatic disease
+  SUBTOPICS: MASLD; Cirrhosis; Pancreatitis
+  ANCHOR: AASLD Practice Guidelines and Guidance [CIVILIAN]
+  URL: https://www.aasld.org/practice-guidelines
+  LINK CLASS: official_portal_review_required
+  COVERAGE: subtopic-specific reference supplementation needed; X1/PICOT pending
+
+WEEK 11: Infectious Diseases I: ambulatory infections
+  SUBTOPICS: URI and sinusitis; UTI; STI screening and treatment
+  ANCHOR: CDC Outpatient Clinical Care for Adults [CIVILIAN]
+  URL: https://www.cdc.gov/antibiotic-use/hcp/clinical-care/adult-outpatient.html
+  LINK CLASS: verified_official_full_text
+  COVERAGE: subtopic-specific reference supplementation needed; X1/PICOT pending
+
+WEEK 12: Infectious Diseases II: severe infections and antimicrobial stewardship
+  SUBTOPICS: Sepsis; Antibiotic stewardship; Resistant organisms
+  ANCHOR: CDC Caring for Patients with Sepsis [CIVILIAN]
+  URL: https://www.cdc.gov/sepsis/hcp/clinical-care/
+  LINK CLASS: verified_official_full_text
+  COVERAGE: subtopic-specific reference supplementation needed; X1/PICOT pending
+
+WEEK 13: Neurology I: headache, dizziness and seizures
+  SUBTOPICS: Migraine; Dizziness and vertigo; First seizure
+  ANCHOR: American Academy of Neurology Practice Guidelines [CIVILIAN]
+  URL: https://www.aan.com/Guidelines/home
+  LINK CLASS: official_portal_review_required
+  COVERAGE: subtopic-specific reference supplementation needed; X1/PICOT pending
+
+WEEK 14: Neurology II: stroke, TIA and cognitive disorders
+  SUBTOPICS: Ischemic stroke; TIA; Cognitive impairment
+  ANCHOR: AHA/ASA Stroke Guidelines [CIVILIAN]
+  URL: https://www.stroke.org/en/professionals/quality-improvement/clinical-practice-guidelines
+  LINK CLASS: official_portal_review_required
+  COVERAGE: subtopic-specific reference supplementation needed; X1/PICOT pending
+
+WEEK 15: Hematology: anemia, anticoagulation and thrombosis
+  SUBTOPICS: Iron-deficiency anemia; VTE; Anticoagulation
+  ANCHOR: ASH Clinical Practice Guidelines [CIVILIAN]
+  URL: https://www.hematology.org/education/clinicians/guidelines-and-quality-care/clinical-practice-guidelines
+  LINK CLASS: official_portal_review_required
+  COVERAGE: subtopic-specific reference supplementation needed; X1/PICOT pending
+
+WEEK 16: Oncology: screening, survivorship and cancer red flags
+  SUBTOPICS: Colorectal screening; Lung screening; Cancer survivorship
+  ANCHOR: USPSTF Colorectal Cancer Screening Recommendation [CIVILIAN]
+  URL: https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/colorectal-cancer-screening
+  LINK CLASS: official_page_review_required
+  COVERAGE: subtopic-specific reference supplementation needed; X1/PICOT pending
+
+WEEK 17: Rheumatology: inflammatory and degenerative disease
+  SUBTOPICS: Rheumatoid arthritis; Gout; Osteoarthritis
+  ANCHOR: American College of Rheumatology Guidelines [CIVILIAN]
+  URL: https://rheumatology.org/clinical-practice-guidelines
+  LINK CLASS: official_portal_review_required
+  COVERAGE: subtopic-specific reference supplementation needed; X1/PICOT pending
+
+WEEK 18: Musculoskeletal and sports medicine
+  SUBTOPICS: Low back pain; Sports injuries; Osteoarthritis and rehabilitation
+  ANCHOR: VA/DoD Clinical Practice Guidelines [VA/DOD]
+  URL: https://www.healthquality.va.gov/guidelines/
+  LINK CLASS: official_portal_review_required
+  COVERAGE: subtopic-specific reference supplementation needed; X1/PICOT pending
+
+WEEK 19: Psychiatry: depression, anxiety, substance use
+  SUBTOPICS: Major depression; Anxiety; Alcohol or opioid use disorder
+  ANCHOR: VA/DoD Major Depressive Disorder Guideline [VA/DOD]
+  URL: https://www.healthquality.va.gov/guidelines/MH/mdd/
+  LINK CLASS: official_portal_review_required
+  COVERAGE: subtopic-specific reference supplementation needed; X1/PICOT pending
+
+WEEK 20: Geriatrics, multimorbidity and polypharmacy
+  SUBTOPICS: Falls; Polypharmacy; Frailty and goals of care
+  ANCHOR: American Geriatrics Society Beers Criteria resources [CIVILIAN]
+  URL: https://www.americangeriatrics.org/
+  LINK CLASS: official_portal_review_required
+  COVERAGE: subtopic-specific reference supplementation needed; X1/PICOT pending
+
+WEEK 21: Preventive care: immunizations, screening and counseling
+  SUBTOPICS: Adult immunizations; Cancer screening; Behavioral counseling
+  ANCHOR: CDC Adult Immunization Schedule [CIVILIAN]
+  URL: https://www.cdc.gov/vaccines/hcp/imz-schedules/adult-age.html
+  LINK CLASS: official_page_review_required
+  COVERAGE: subtopic-specific reference supplementation needed; X1/PICOT pending
+
+WEEK 22: Dermatology, ENT and ophthalmology
+  SUBTOPICS: Skin infections and lesions; Otitis and sinus disease; Vision red flags
+  ANCHOR: CDC Outpatient Adult Antibiotic Guidance [CIVILIAN]
+  URL: https://www.cdc.gov/antibiotic-use/hcp/clinical-care/adult-outpatient.html
+  LINK CLASS: verified_official_full_text
+  COVERAGE: subtopic-specific reference supplementation needed; X1/PICOT pending
+
+WEEK 23: Women's health and basic OB/GYN
+  SUBTOPICS: Abnormal uterine bleeding; Contraception; STI care
+  ANCHOR: CDC STI Treatment Guidelines [CIVILIAN]
+  URL: https://www.cdc.gov/sti/hcp/treatment-guidelines/
+  LINK CLASS: official_page_review_required
+  COVERAGE: subtopic-specific reference supplementation needed; X1/PICOT pending
+
+WEEK 24: Surgical principles, perioperative care and urgent referrals
+  SUBTOPICS: Preoperative risk; Anticoagulant perioperative management; Surgical emergencies
+  ANCHOR: ACC Clinical Guidelines [CIVILIAN]
+  URL: https://www.acc.org/guidelines
+  LINK CLASS: official_portal_review_required
+  COVERAGE: subtopic-specific reference supplementation needed; X1/PICOT pending
+
+WEEK 25: Hospital medicine and critical care
+  SUBTOPICS: Sepsis; Respiratory support; Inpatient glycemic management
+  ANCHOR: CDC Sepsis Clinical Care [CIVILIAN]
+  URL: https://www.cdc.gov/sepsis/hcp/clinical-care/
+  LINK CLASS: verified_official_full_text
+  COVERAGE: subtopic-specific reference supplementation needed; X1/PICOT pending
+
+WEEK 26: Integration, clinical cases and assessment
+  SUBTOPICS: Guideline appraisal; Case-based synthesis; PICOT and evidence grading
+  ANCHOR: USPSTF Recommendation Methods [CIVILIAN]
+  URL: https://www.uspreventiveservicestaskforce.org/uspstf/about-uspstf/methods-and-processes
+  LINK CLASS: official_page_review_required
+  COVERAGE: subtopic-specific reference supplementation needed; X1/PICOT pending

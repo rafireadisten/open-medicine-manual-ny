@@ -1,0 +1,210 @@
+OPEN MEDICINE MANUAL NY — INTEGRATED OPEN-ACCESS REVIEW MAP
+2026-10-15 • Editorial proposal, NOT clinical approval
+
+WEEK 01 — Cardiovascular I: hypertension and ASCVD prevention
+Subtopics: Hypertension | ASCVD risk | Lipid management
+Primary guideline: https://www.who.int/publications/i/item/9789240033986
+Review: Outpatient management of essential hypertension: a review based on the latest clinical guidelines
+Full text: https://pmc.ncbi.nlm.nih.gov/articles/PMC11011233/
+Integration: Complements BP diagnosis, drug selection and monitoring
+Evidence: X1 and PICOT pending. Subtopic and VA/DoD mapping incomplete.
+
+WEEK 02 — Cardiovascular II: CAD, heart failure and arrhythmias
+Subtopics: Coronary artery disease | Heart failure | Atrial fibrillation
+Primary guideline: https://pmc.ncbi.nlm.nih.gov/articles/PMC11095842/
+Review: 2024 update in heart failure
+Full text: https://pmc.ncbi.nlm.nih.gov/articles/PMC11769673/
+Integration: Complements ACC/AHA management recommendations; CAD/arrhythmia need further reviews
+Evidence: X1 and PICOT pending. Subtopic and VA/DoD mapping incomplete.
+
+WEEK 03 — Pulmonary I: asthma and COPD
+Subtopics: Asthma | COPD | Pulmonary function testing
+Primary guideline: https://ginasthma.org/
+Review: Update on Asthma Management Guidelines
+Full text: https://pmc.ncbi.nlm.nih.gov/articles/PMC11482852/
+Integration: GINA companion; COPD requires additional review
+Evidence: X1 and PICOT pending. Subtopic and VA/DoD mapping incomplete.
+
+WEEK 04 — Pulmonary II: pneumonia, PE and respiratory failure
+Subtopics: Community-acquired pneumonia | Pulmonary embolism | Respiratory failure
+Primary guideline: https://www.idsociety.org/practice-guideline/community-acquired-pneumonia-cap-in-adults/
+Review: Community-Acquired Pneumonia for the Hospitalist: Updates and Controversies
+Full text: https://pmc.ncbi.nlm.nih.gov/articles/PMC11864470/
+Integration: ATS/IDSA CAP companion; PE/respiratory failure still need review
+Evidence: X1 and PICOT pending. Subtopic and VA/DoD mapping incomplete.
+
+WEEK 05 — Endocrinology I: diabetes mellitus
+Subtopics: T2DM pharmacotherapy | Diabetes complications | Diabetes prevention
+Primary guideline: https://professional.diabetes.org/standards-of-care
+Review: Advances and counterpoints in type 2 diabetes. What is ready for translation into real-world practice, ahead of the guidelines
+Full text: https://pmc.ncbi.nlm.nih.gov/articles/PMC11373437/
+Integration: ADA standards companion
+Evidence: X1 and PICOT pending. Subtopic and VA/DoD mapping incomplete.
+
+WEEK 06 — Endocrinology II: thyroid, adrenal and metabolic disorders
+Subtopics: Hypothyroidism | Adrenal insufficiency | Obesity and metabolic disease
+Primary guideline: https://www.endocrine.org/clinical-practice-guidelines
+Review: The Current and Future Role of Insulin Therapy in the Management of Type 2 Diabetes: A Narrative Review
+Full text: https://pmc.ncbi.nlm.nih.gov/articles/PMC11043311/
+Integration: Partial only: thyroid and adrenal review still REQUIRED
+Evidence: X1 and PICOT pending. Subtopic and VA/DoD mapping incomplete.
+
+WEEK 07 — Renal I: CKD and AKI
+Subtopics: CKD staging | CKD risk reduction | AKI diagnosis
+Primary guideline: https://kdigo.org/guidelines/ckd-evaluation-and-management/
+Review: Early Identification and Management of Chronic Kidney Disease: A Narrative Review of the Crucial Role of Primary Care Practitioners
+Full text: https://pmc.ncbi.nlm.nih.gov/articles/PMC11399210/
+Integration: KDIGO companion; AKI needs separate review
+Evidence: X1 and PICOT pending. Subtopic and VA/DoD mapping incomplete.
+
+WEEK 08 — Renal II: electrolytes and acid-base disorders
+Subtopics: Potassium disorders | Hyponatremia | Acid-base interpretation
+Primary guideline: https://www.kidney.org/professionals/guidelines
+Review: Pathophysiology, symptoms, outcomes, and evaluation of hyponatremia: comprehension and best clinical practice
+Full text: https://pmc.ncbi.nlm.nih.gov/articles/PMC11828805/
+Integration: Electrolyte companion; potassium/acid-base still require review
+Evidence: X1 and PICOT pending. Subtopic and VA/DoD mapping incomplete.
+
+WEEK 09 — Gastroenterology I: GERD, dyspepsia and GI bleeding
+Subtopics: GERD | Dyspepsia | GI bleeding
+Primary guideline: https://pmc.ncbi.nlm.nih.gov/articles/PMC8754510/
+Review: Acute upper and lower gastrointestinal bleeding management in older people taking or not taking anticoagulants: a literature review
+Full text: https://pmc.ncbi.nlm.nih.gov/articles/PMC11099229/
+Integration: Complements GI bleed care; GERD guidance remains separate
+Evidence: X1 and PICOT pending. Subtopic and VA/DoD mapping incomplete.
+
+WEEK 10 — Gastroenterology II: liver and pancreatic disease
+Subtopics: MASLD | Cirrhosis | Pancreatitis
+Primary guideline: https://www.aasld.org/practice-guidelines
+Review: Metabolic Dysfunction–Associated Steatotic Liver Disease: From Pathogenesis to Current Therapeutic Options
+Full text: https://pmc.ncbi.nlm.nih.gov/articles/PMC11172019/
+Integration: AASLD liver companion; pancreatitis still needs additional review
+Evidence: X1 and PICOT pending. Subtopic and VA/DoD mapping incomplete.
+
+WEEK 11 — Infectious Diseases I: ambulatory infections
+Subtopics: URI and sinusitis | UTI | STI screening and treatment
+Primary guideline: https://www.cdc.gov/antibiotic-use/hcp/clinical-care/adult-outpatient.html
+Review: Antibiotic Stewardship Interventions for Urinary Tract Infections in Outpatient Settings: A Narrative Review
+Full text: https://pmc.ncbi.nlm.nih.gov/articles/PMC11931633/
+Integration: CDC outpatient antibiotic prescribing companion
+Evidence: X1 and PICOT pending. Subtopic and VA/DoD mapping incomplete.
+
+WEEK 12 — Infectious Diseases II: severe infections and antimicrobial stewardship
+Subtopics: Sepsis | Antibiotic stewardship | Resistant organisms
+Primary guideline: https://www.sccm.org/clinical-resources/guidelines/guidelines/surviving-sepsis-campaign-international-guidelines
+Review: Sepsis Stewardship: The Puzzle of Antibiotic Therapy in the Context of Individualization of Decision Making
+Full text: https://pmc.ncbi.nlm.nih.gov/articles/PMC10820263/
+Integration: Complements sepsis guidelines and antibiotic stewardship
+Evidence: X1 and PICOT pending. Subtopic and VA/DoD mapping incomplete.
+
+WEEK 13 — Neurology I: headache, dizziness and seizures
+Subtopics: Migraine | Dizziness and vertigo | First seizure
+Primary guideline: https://www.aan.com/Guidelines/home
+Review: Comparative effects of drug interventions for the acute management of migraine episodes in adults: systematic review and network meta-analysis
+Full text: https://pmc.ncbi.nlm.nih.gov/articles/PMC11409395/
+Integration: AAN/AHS companion; dizziness and seizures require additional reviews
+Evidence: X1 and PICOT pending. Subtopic and VA/DoD mapping incomplete.
+
+WEEK 14 — Neurology II: stroke, TIA and cognitive disorders
+Subtopics: Ischemic stroke | TIA | Cognitive impairment
+Primary guideline: https://www.stroke.org/en/professionals/quality-improvement/clinical-practice-guidelines
+Review: Updated Perspectives on Lifestyle Interventions as Secondary Stroke Prevention Measures: A Narrative Review
+Full text: https://pmc.ncbi.nlm.nih.gov/articles/PMC10972452/
+Integration: AHA/ASA stroke companion; cognition requires additional review
+Evidence: X1 and PICOT pending. Subtopic and VA/DoD mapping incomplete.
+
+WEEK 15 — Hematology: anemia, anticoagulation and thrombosis
+Subtopics: Iron-deficiency anemia | VTE | Anticoagulation
+Primary guideline: https://www.hematology.org/education/clinicians/guidelines-and-quality-care/clinical-practice-guidelines
+Review: Recommendations for diagnosis, treatment, and prevention of iron deficiency and iron deficiency anemia
+Full text: https://pmc.ncbi.nlm.nih.gov/articles/PMC11247274/
+Integration: ASH companion; thrombosis requires separate review
+Evidence: X1 and PICOT pending. Subtopic and VA/DoD mapping incomplete.
+
+WEEK 16 — Oncology: screening, survivorship and cancer red flags
+Subtopics: Colorectal screening | Lung screening | Cancer survivorship
+Primary guideline: https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/colorectal-cancer-screening
+Review: Cancer survivorship road map
+Full text: https://pmc.ncbi.nlm.nih.gov/articles/PMC11328720/
+Integration: Complements oncology survivorship recommendations
+Evidence: X1 and PICOT pending. Subtopic and VA/DoD mapping incomplete.
+
+WEEK 17 — Rheumatology: inflammatory and degenerative disease
+Subtopics: Rheumatoid arthritis | Gout | Osteoarthritis
+Primary guideline: https://rheumatology.org/clinical-practice-guidelines
+Review: Osteoarthritis and rheumatoid arthritis: A comparative review of pathophysiology, diagnosis and evolving management
+Full text: https://pmc.ncbi.nlm.nih.gov/articles/PMC13207567/
+Integration: ACR guideline companion
+Evidence: X1 and PICOT pending. Subtopic and VA/DoD mapping incomplete.
+
+WEEK 18 — Musculoskeletal and sports medicine
+Subtopics: Low back pain | Sports injuries | Osteoarthritis and rehabilitation
+Primary guideline: https://rheumatology.org/clinical-practice-guidelines
+Review: Exercise for osteoarthritis of the knee
+Full text: https://pmc.ncbi.nlm.nih.gov/articles/PMC11613324/
+Integration: Complements OA physical activity guidance; sport injury coverage remains open
+Evidence: X1 and PICOT pending. Subtopic and VA/DoD mapping incomplete.
+
+WEEK 19 — Psychiatry: depression, anxiety, substance use
+Subtopics: Major depression | Anxiety | Alcohol or opioid use disorder
+Primary guideline: https://www.healthquality.va.gov/guidelines/MH/mdd/
+Review: Primary Care Models and Depression Outcomes in Rural Adult Populations: A Systematic Review
+Full text: https://pmc.ncbi.nlm.nih.gov/articles/PMC11376465/
+Integration: Complement to VA/DoD depression; anxiety and substance use remain open
+Evidence: X1 and PICOT pending. Subtopic and VA/DoD mapping incomplete.
+
+WEEK 20 — Geriatrics, multimorbidity and polypharmacy
+Subtopics: Falls | Polypharmacy | Frailty and goals of care
+Primary guideline: https://www.americangeriatrics.org/
+Review: Deprescribing interventions in older adults: An overview of systematic reviews
+Full text: https://pmc.ncbi.nlm.nih.gov/articles/PMC11182547/
+Integration: Geriatric medication review companion
+Evidence: X1 and PICOT pending. Subtopic and VA/DoD mapping incomplete.
+
+WEEK 21 — Preventive care: immunizations, screening and counseling
+Subtopics: Adult immunizations | Cancer screening | Behavioral counseling
+Primary guideline: https://www.cdc.gov/vaccines/hcp/imz-schedules/adult-age.html
+Review: Adult vaccination coverage in the United States: A database analysis and literature review of improvement strategies
+Full text: https://pmc.ncbi.nlm.nih.gov/articles/PMC11290753/
+Integration: Complements ACIP vaccine schedule; screening and counseling need reviews
+Evidence: X1 and PICOT pending. Subtopic and VA/DoD mapping incomplete.
+
+WEEK 22 — Dermatology, ENT and ophthalmology
+Subtopics: Skin infections and lesions | Otitis and sinus disease | Vision red flags
+Primary guideline: https://www.uspreventiveservicestaskforce.org/uspstf/
+Review: Dermatological guide for primary care physicians: full body skin checks, skin cancer detection, and patient education on self-skin checks and sun protection
+Full text: https://pmc.ncbi.nlm.nih.gov/articles/PMC11188824/
+Integration: Dermatology review; ENT and ophthalmology still require reviews
+Evidence: X1 and PICOT pending. Subtopic and VA/DoD mapping incomplete.
+
+WEEK 23 — Women's health and basic OB/GYN
+Subtopics: Abnormal uterine bleeding | Contraception | STI care
+Primary guideline: https://www.cdc.gov/sti/hcp/treatment-guidelines/
+Review: Abnormal uterine bleeding: The well-known and the hidden face
+Full text: https://pmc.ncbi.nlm.nih.gov/articles/PMC11101194/
+Integration: Womens health companion; OB principles and other GYN topics need reviews
+Evidence: X1 and PICOT pending. Subtopic and VA/DoD mapping incomplete.
+
+WEEK 24 — Surgical principles, perioperative care and urgent referrals
+Subtopics: Preoperative risk | Anticoagulant perioperative management | Surgical emergencies
+Primary guideline: https://www.acc.org/guidelines
+Review: Perioperative Risk: Short Review of Current Approach in Non Cardiac Surgery
+Full text: https://pmc.ncbi.nlm.nih.gov/articles/PMC11765857/
+Integration: ACC/AHA perioperative guidance companion
+Evidence: X1 and PICOT pending. Subtopic and VA/DoD mapping incomplete.
+
+WEEK 25 — Hospital medicine and critical care
+Subtopics: Sepsis | Respiratory support | Inpatient glycemic management
+Primary guideline: https://www.sccm.org/clinical-resources/guidelines/guidelines/surviving-sepsis-campaign-international-guidelines
+Review: State of the art of sepsis care for the emergency medicine clinician
+Full text: https://pmc.ncbi.nlm.nih.gov/articles/PMC11319221/
+Integration: Surviving Sepsis companion; other critical care topics need reviews
+Evidence: X1 and PICOT pending. Subtopic and VA/DoD mapping incomplete.
+
+WEEK 26 — Integration, clinical cases and assessment
+Subtopics: Guideline appraisal | Case-based synthesis | PICOT and evidence grading
+Primary guideline: https://www.uspreventiveservicestaskforce.org/uspstf/about-uspstf/methods-and-processes
+Review: Teaching and learning clinical reasoning skill in undergraduate medical students: A scoping review
+Full text: https://pmc.ncbi.nlm.nih.gov/articles/PMC11482728/
+Integration: Educational methods companion; not disease guideline
+Evidence: X1 and PICOT pending. Subtopic and VA/DoD mapping incomplete.
