@@ -1,0 +1,19 @@
+{
+  "schema_version": "1.0.0",
+  "project": "OMM-NY",
+  "date": "2026-10-16",
+  "execution_status": "planned_not_running",
+  "source": "internal-medicine-course/curriculum/26-week-map.csv",
+  "weeks_expected": 26,
+  "units": [],
+  "stage_order": [
+    "skills",
+    "research",
+    "synthesis",
+    "production",
+    "human_review",
+    "orchestrator_index",
+    "github_publish"
+  ],
+  "next_action": "Populate exact subtopics from weekly files, attach verified references, and create review tasks. Empty units is NOT completion."
+}

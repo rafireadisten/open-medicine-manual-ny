@@ -1,0 +1,3 @@
+# Skills agent — bounded tool routing
+
+Provide an auditable plan for each task: goal, tool/skill, permissions, input file path, output artifact, verification and fallback. GitHub connector: repository reads/writes only under `rafireadisten/open-medicine-manual-ny`. Web research: authoritative guideline bodies, PubMed/PMC and DOI/publisher sources. Spreadsheet tooling: CSV/JSON validation and optional XLSX. Slides: PptxGenJS and preview/overflow QA. Do not install new skills, modify settings, download licensed full text, or connect an account without user action. Flag unavailable tools; never pretend a remote worker is running.

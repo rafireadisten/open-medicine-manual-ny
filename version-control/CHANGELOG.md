@@ -118,3 +118,10 @@ Status legend: **MERGED** = verified on GitHub `main`; **DESIGNED** = specified 
 - Curriculum and evidence registry commit: https://github.com/rafireadisten/open-medicine-manual-ny/commit/d33b91381145f3188418d0399c1a81ec4c5a87b0
 - Proposal publication commit: https://github.com/rafireadisten/open-medicine-manual-ny/commit/9348a0855c90536c01ed0db2d7ad1badce96466f
 - Proposed references: https://github.com/rafireadisten/open-medicine-manual-ny/tree/main/research/proposals/2026-10-15
+
+## Milestone 12 — Orchestrated agent implementation and draft production (2026-10-16) — MERGED DESIGN / NOT RUNNING
+- Implemented explicit orchestrator, skills routing, research, synthesis, production and main publisher roles with human clinical gate in AGENTS.md and agents/*.md.
+- Added `research/agent_queue.json` as a deliberately unpopulated, non-complete task queue and `docs/AGENT_ORCHESTRATION.md` for dependencies, states and guardrails.
+- Added `docs/draft_curriculum_dashboard.html` as an HTML rough draft and generated a six-slide PPTX rough draft in the ChatGPT artifact workspace; binary PowerPoint remote publication requires separate verification.
+- Added `ROADMAP.md` for outstanding verification, X1/PICOT, human approval, indexing and actual runner deployment.
+- **Execution truth:** documented tasks and GitHub scaffolding are not a continuously running remote agent. The Orchestrator may index only reviewed subtopics; the publishing role must never declare completion from draft data.
