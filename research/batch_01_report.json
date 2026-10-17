@@ -1,0 +1,32 @@
+{
+  "run_at_utc": "2026-10-17T03:56:48.509529+00:00",
+  "execution": "local",
+  "roles": [
+    "orchestrator",
+    "skills",
+    "research",
+    "synthesis",
+    "production",
+    "publisher"
+  ],
+  "implementation": "deterministic draft pipeline with ChatGPT-authored evidence card",
+  "remote_agent": "not_started_safety_blocked",
+  "weeks": 26,
+  "units": 78,
+  "draft_units": 1,
+  "clinical_approvals": 0,
+  "indexed_complete": 0,
+  "input_sha256": {
+    "research/normalized/curriculum_subtopics.json": "f6c0402fc9ff2e4073b4f757e066c4a32b575ba5e7386f2a99da9cd38e8001ac",
+    "research/drafts/OMM-W01-S01.json": "fbadda12b7fb3d025bd153d2887209cb821dee0f56ca8e31160fef4a906daaa8"
+  },
+  "approval_registry_modified": false,
+  "network_requests": 0,
+  "autonomous_synthesis": false,
+  "outputs": [
+    "research/agent_queue.json",
+    "docs/drafts/batch-01/hypertension.html",
+    "docs/drafts/batch-01/hypertension.md",
+    "docs/drafts/batch-01/draft_index.json"
+  ]
+}

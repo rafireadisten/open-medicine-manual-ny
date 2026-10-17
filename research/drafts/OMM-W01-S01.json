@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0.0",
+  "unit_id": "OMM-W01-S01",
+  "title": "Hypertension: targets, evidence and applicability",
+  "scope": "First subtopic pilot only. The 2024 review is background, not a substitute for the 2025 US guideline. These are research drafts, not prescribing instructions or completed curriculum coverage.",
+  "clinical_approval_status": "not_approved",
+  "clinical_reviewer": null,
+  "documents": [
+    {"source_id": "AHA2025", "highlight": "The 2025 US guideline sets an overarching treatment goal below 130/80 mm Hg, with individual considerations for institutional care, limited life expectancy and pregnancy.", "locator": "Official AHA Top Things to Know, item 1; updated August 14, 2025.", "x1_linkage_status": "SPRINT is relevant primary evidence; exact guideline bibliography linkage and full recommendation appraisal remain pending."},
+    {"source_id": "R1", "highlight": "Blood-pressure targets differ across guidelines; distinguish the guideline, risk population and treatment tolerance when applying a target.", "locator": "Treatment goals section; Table 2 summarizes older guideline editions.", "x1_linkage_status": "Contextual review synthesis; no single primary trial proves all cross-guideline differences. Evidence exception pending reviewer assessment."}
+  ],
+  "x1": {
+    "source_id": "SPRINT2015",
+    "design": "randomized_controlled_trial",
+    "doi": "10.1056/NEJMoa1511939",
+    "pmid": "26551272",
+    "linkage_note": "Candidate X1, not yet a verified guideline-citation link. SPRINT tested systolic targets below 120 versus below 140; it did not directly test below 130/80 for every adult.",
+    "picot": {
+      "P": "9,361 adults aged at least 50, systolic BP 130-180 mm Hg and increased cardiovascular risk; diabetes and prior stroke excluded; 102 US/Puerto Rico sites.",
+      "I": "Treatment targeting systolic BP below 120 mm Hg.",
+      "C": "Treatment targeting systolic BP below 140 mm Hg.",
+      "O": "MI, other ACS, stroke, heart failure or cardiovascular death: 1.65% versus 2.19% per year; HR 0.75 (95% CI 0.64-0.89). Mortality HR 0.73 (0.60-0.90). More serious hypotension, syncope, electrolyte abnormalities and AKI/failure with intensive treatment; no increase in injurious falls reported.",
+      "T": "Median follow-up 3.26 years; intervention stopped early for benefit. These are 2015 primary-report results, not the 2021 re-adjudicated estimates."
+    },
+    "limitations": "Open-label treatment with blinded outcome adjudication, early stopping and selected population limit generalization. Structured BP measurement differs from casual office readings. Do not extrapolate directly to diabetes, prior stroke, younger adults or nursing-home residents."
+  },
+  "sources": [
+    {"id": "AHA2025", "title": "2025 High Blood Pressure Guideline - Top Things to Know", "url": "https://professional.heart.org/en/science-news/2025-high-blood-pressure-guideline/top-things-to-know", "verification": "Official public summary retrieved; full guideline bibliography not yet verified; civilian L1-L4 tier unresolved."},
+    {"id": "R1", "title": "Outpatient management of essential hypertension: a review based on the latest clinical guidelines (2024)", "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11011233/", "verification": "Title, treatment-goals text and CC BY 4.0 notice found in indexed PMC/publisher content. Direct PMC fetch encountered CAPTCHA. Review predates 2025 US guidance."},
+    {"id": "SPRINT2015", "title": "A Randomized Trial of Intensive versus Standard Blood-Pressure Control (2015)", "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4689591/", "verification": "Original primary report text and PubMed 26551272 checked; abstract, Methods and Results support PICOT. Public author manuscript; no redistribution of full text."},
+    {"id": "SPRINT2021", "title": "Final Report of a Trial of Intensive versus Standard Blood-Pressure Control (2021)", "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9907774/", "verification": "Update identified (DOI 10.1056/NEJMoa1901281); not substituted into the 2015 PICOT. Reconciliation remains pending."},
+    {"id": "WHO2021", "title": "WHO Guideline for the pharmacological treatment of hypertension in adults (2021)", "url": "https://www.who.int/publications/i/item/9789240033986", "verification": "Historical starting reference preserved; no WHO-specific recommendation extracted in this pilot."},
+    {"id": "VADOD2026", "title": "VA/DoD Diagnosis and Management of Hypertension in Primary Care (2026)", "url": "https://www.healthquality.va.gov/guidelines/CD/htn/", "verification": "Official 2026 portal and document links confirmed. Separate VA/DoD track; full guideline recommendation extraction pending."}
+  ],
+  "blockers": [
+    "Trace candidate X1 to the exact current guideline recommendation and bibliography; reconcile the 2021 final SPRINT report.",
+    "Extract and compare the separate 2026 VA/DoD recommendation rather than merging its track into civilian guidance.",
+    "Confirm project-specific civilian L1-L4 definitions and document-level mapping; no tiers are inferred.",
+    "Complete independent human clinical review. No autonomous approval or complete indexing is permitted."
+  ]
+}
