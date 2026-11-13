@@ -1,0 +1,24 @@
+name: Draft reference inventory validation
+on:
+  pull_request:
+    paths:
+      - "research/**"
+      - "agents/runtime/validate_reference_inventory.py"
+      - "tests/**"
+      - ".github/workflows/validate-reference-inventory.yml"
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  draft-audit:
+    runs-on: ubuntu-latest
+    timeout-minutes: 4
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Run regression tests
+        run: python -m unittest discover -s tests -v
+      - name: Validate draft registry (not a clinical-completion test)
+        run: python agents/runtime/validate_reference_inventory.py
