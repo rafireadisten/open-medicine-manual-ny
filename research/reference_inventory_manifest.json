@@ -1,0 +1,16 @@
+{
+  "schema_version": "1.0.0",
+  "updated_on": "2026-11-12",
+  "inventory_complete": false,
+  "source_inventory_status": "provisional_non_exhaustive",
+  "expected_total_reference_documents": null,
+  "reference_ids": [
+    "REF-AF-ACC-AHA-2023",
+    "REF-CKD-KDIGO-2024"
+  ],
+  "curriculum_mapping_reviewed": false,
+  "inventory_audit_url": null,
+  "notes": "This manifest explicitly records only the two selected research-stage reference documents. It does NOT certify completeness across 26 weeks / 78 provisional curriculum units. No human approval or clinical completion.",
+  "human_inventory_reviewer": null,
+  "verified_at": null
+}
