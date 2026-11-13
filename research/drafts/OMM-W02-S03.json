@@ -1,0 +1,56 @@
+{
+  "schema_version": "1.1.0",
+  "unit_id": "OMM-W02-S03",
+  "inventory_reference_id": "REF-AF-ACC-AHA-2023",
+  "title": "Atrial fibrillation: oral anticoagulant selection",
+  "scope": "Week 02, atrial fibrillation. One selected guideline document and one directly cited primary study. Research-stage educational draft; not clinically approved or a treatment directive.",
+  "reference_track": "CIVILIAN",
+  "reference_tier": "pending_civilian_L1_L4_mapping",
+  "source_checked_on": "2026-11-12",
+  "clinical_approval_status": "not_approved",
+  "clinical_reviewer": null,
+  "clinical_review_date": null,
+  "documents": [
+    {
+      "source_id": "AFGUIDE2023",
+      "highlight": "For atrial fibrillation patients who are candidates for anticoagulation and have neither moderate-to-severe rheumatic mitral stenosis nor a mechanical heart valve, the 2023 ACC/AHA/ACCP/HRS guideline recommends a direct oral anticoagulant rather than warfarin (Class 1, Level A).",
+      "locator": "Section 6.3.1, Antithrombotic Therapy, recommendation 2, JACC 2024 print p. 147; recommendation cites references 1-7; reference 3 is the ARISTOTLE randomized trial.",
+      "x1_linkage_status": "direct_primary_trial_citation_verified_for_apixaban_vs_warfarin; single trial is not sufficient to establish a class-wide conclusion"
+    }
+  ],
+  "x1": {
+    "source_id": "ARISTOTLE2011",
+    "design": "randomized_controlled_trial",
+    "doi": "10.1056/NEJMoa1107039",
+    "pmid": "21870978",
+    "linkage_note": "The guideline directly cites ARISTOTLE as reference 3 under Section 6.3.1 recommendation 2. This trial is direct primary evidence for one DOAC (apixaban) versus warfarin, not the entire DOAC class; other trials also support the class recommendation.",
+    "picot": {
+      "P": "18,201 patients with atrial fibrillation and at least one additional risk factor for stroke; patients with moderate/severe mitral stenosis or mechanical prosthetic valves were not the indicated population.",
+      "I": "Apixaban 5 mg twice daily (dose-reduction rules applied to eligible patients in trial).",
+      "C": "Dose-adjusted warfarin with target INR 2.0-3.0.",
+      "O": "Stroke or systemic embolism: 1.27%/year with apixaban vs 1.60%/year with warfarin, HR 0.79 (95% CI 0.66-0.95); major bleeding: 2.13%/year vs 3.09%/year, HR 0.69 (0.60-0.80); all-cause death HR 0.89 (0.80-0.99).",
+      "T": "Median follow-up 1.8 years; randomized, double-blind noninferiority trial with superiority testing."
+    },
+    "limitations": "Supports apixaban specifically, not every available DOAC; trial eligibility, renal function, drug interactions, adherence, hemorrhage risk and patient-specific contraindications require independent clinical evaluation. Industry funded."
+  },
+  "sources": [
+    {
+      "id": "AFGUIDE2023",
+      "title": "2023 ACC/AHA/ACCP/HRS Guideline for the Diagnosis and Management of Atrial Fibrillation (JACC 2024 publication)",
+      "url": "https://professional.heart.org/-/media/Files/Professional/Quality-Improvement/Get-With-the-Guidelines/Get-With-The-Guidelines-AFIB/AFib-Month/joglaretal20232023accahaaccphrsguidelineforthediagnosisandmanagementofatrialfibrillation.pdf",
+      "verification": "Original guideline Section 6.3.1 recommendation 2, Class 1 Level A, and bibliography reference 3 inspected 2026-11-12. Web screenshot unavailable owing to file-size limit; same recommendation and bibliography text inspected."
+    },
+    {
+      "id": "ARISTOTLE2011",
+      "title": "Granger et al., Apixaban versus warfarin in patients with atrial fibrillation (NEJM 2011)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21870978/",
+      "verification": "Original randomized trial PubMed abstract, DOI 10.1056/NEJMoa1107039, design, size, results and follow-up inspected 2026-11-12."
+    }
+  ],
+  "blockers": [
+    "Clinical reviewer assignment, independent methodological verification and signed approval pending.",
+    "Full civilian L1-L4 classification and VA/DoD parallel reference mapping pending.",
+    "Guideline's class-level inference includes several pivotal trials; X1 represents one directly supportive agent comparison only.",
+    "Reference-document inventory is provisional, not declared exhaustive."
+  ]
+}
