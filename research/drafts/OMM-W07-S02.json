@@ -14,7 +14,7 @@
     {
       "source_id": "KDIGO2024",
       "highlight": "KDIGO 2024 recommends SGLT2 inhibition for adults with CKD when eGFR is at least 20 mL/min/1.73 m2 and urine ACR is at least 200 mg/g (recommendation 3.7.2, grade 1A). The guideline also offers a separate heart-failure indication, which is outside the selected X1 comparison.",
-      "locator": "Chapter 3, Section 3.7, Recommendation 3.7.2, Kidney International 2024 supplement print p. S214; trial discussion pp. S215-S216; bibliography reference 513 (DAPA-CKD).",
+      "locator": "KDIGO 2024 CKD guideline, Section 3.7, Recommendation 3.7.2, Kidney International 105(Suppl 4S), p. S159; DAPA-CKD discussed in supporting narrative; Heerspink et al. cited in guideline bibliography.",
       "x1_linkage_status": "direct_support_verified_for_albuminuric_CKD_subpopulation; DAPA-CKD enrolled eGFR 25-75, not full >=20 range or heart failure without albuminuria"
     }
   ],
@@ -23,7 +23,7 @@
     "design": "randomized_controlled_trial",
     "doi": "10.1056/NEJMoa2024816",
     "pmid": "32970396",
-    "linkage_note": "KDIGO 2024 Section 3.7 discusses DAPA-CKD as one of the pivotal randomized CKD trials and lists Heerspink et al. as reference 513. Direct primary evidence applies to the trial's narrower eligibility (eGFR 25-75, UACR 200-5000), not all persons included in the broader 2024 recommendation.",
+    "linkage_note": "DAPA-CKD directly supports SGLT2 inhibitor benefit in albuminuric CKD with eGFR 25-75, a subset of Recommendation 3.7.2. This is one supporting pivotal primary trial, not proof of the entire eGFR>=20 or heart-failure arms of the recommendation.",
     "picot": {
       "P": "4,304 adults with CKD (with or without type 2 diabetes), eGFR 25-75 mL/min/1.73 m2 and urine ACR 200-5000 mg/g.",
       "I": "Dapagliflozin 10 mg once daily added to standard CKD treatment.",
@@ -38,7 +38,7 @@
       "id": "KDIGO2024",
       "title": "KDIGO 2024 Clinical Practice Guideline for the Evaluation and Management of CKD",
       "url": "https://kdigo.org/wp-content/uploads/2024/03/KDIGO-2024-CKD-Guideline.pdf",
-      "verification": "Official KDIGO guideline PDF inspected 2026-11-12 including screenshot of page S214, text of pp. S215-216 and reference 513; 2027 focused update remains draft, not adopted."
+      "verification": "Original official guideline and official summary recommendation 3.7.2 checked 2026-11-12. KDIGO 2027 focused update currently under review, not finalized."
     },
     {
       "id": "DAPACKD2020",
