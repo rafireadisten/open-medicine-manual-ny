@@ -14,7 +14,7 @@
     {
       "source_id": "AFGUIDE2023",
       "highlight": "For atrial fibrillation patients who are candidates for anticoagulation and have neither moderate-to-severe rheumatic mitral stenosis nor a mechanical heart valve, the 2023 ACC/AHA/ACCP/HRS guideline recommends a direct oral anticoagulant rather than warfarin (Class 1, Level A).",
-      "locator": "Section 6.3.1, Antithrombotic Therapy, recommendation 2, JACC 2024 print p. 147; recommendation cites references 1-7; reference 3 is the ARISTOTLE randomized trial.",
+      "locator": "Section 6.3.1, Antithrombotic Therapy, recommendation 2 (COR 1, LOE A); supporting references 1-7; section-specific bibliography reference 3 is Granger et al. (ARISTOTLE).",
       "x1_linkage_status": "direct_primary_trial_citation_verified_for_apixaban_vs_warfarin; single trial is not sufficient to establish a class-wide conclusion"
     }
   ],
@@ -37,8 +37,8 @@
     {
       "id": "AFGUIDE2023",
       "title": "2023 ACC/AHA/ACCP/HRS Guideline for the Diagnosis and Management of Atrial Fibrillation (JACC 2024 publication)",
-      "url": "https://professional.heart.org/-/media/Files/Professional/Quality-Improvement/Get-With-the-Guidelines/Get-With-The-Guidelines-AFIB/AFib-Month/joglaretal20232023accahaaccphrsguidelineforthediagnosisandmanagementofatrialfibrillation.pdf",
-      "verification": "Original guideline Section 6.3.1 recommendation 2, Class 1 Level A, and bibliography reference 3 inspected 2026-11-12. Web screenshot unavailable owing to file-size limit; same recommendation and bibliography text inspected."
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11095842/",
+      "verification": "Full original peer-reviewed guideline text (PMC), Section 6.3.1 recommendation 2, and section-specific bibliography reference 3 inspected on 2026-11-12."
     },
     {
       "id": "ARISTOTLE2011",
