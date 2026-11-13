@@ -1,0 +1,63 @@
+{
+  "schema_version": "1.1.0",
+  "unit_id": "OMM-W07-S02",
+  "inventory_reference_id": "REF-CKD-KDIGO-2024",
+  "title": "Chronic kidney disease: SGLT2 inhibitors for risk reduction",
+  "scope": "Week 07, CKD risk reduction. One guideline document and one directly supportive original RCT. Research-stage educational draft; not clinically approved or a treatment directive.",
+  "reference_track": "CIVILIAN",
+  "reference_tier": "pending_civilian_L1_L4_mapping",
+  "source_checked_on": "2026-11-12",
+  "clinical_approval_status": "not_approved",
+  "clinical_reviewer": null,
+  "clinical_review_date": null,
+  "documents": [
+    {
+      "source_id": "KDIGO2024",
+      "highlight": "KDIGO 2024 recommends SGLT2 inhibition for adults with CKD when eGFR is at least 20 mL/min/1.73 m2 and urine ACR is at least 200 mg/g (recommendation 3.7.2, grade 1A). The guideline also offers a separate heart-failure indication, which is outside the selected X1 comparison.",
+      "locator": "KDIGO 2024 CKD guideline, Section 3.7, Recommendation 3.7.2, Kidney International 105(Suppl 4S), p. S159; DAPA-CKD discussed in supporting narrative; Heerspink et al. cited in guideline bibliography.",
+      "x1_linkage_status": "direct_support_verified_for_albuminuric_CKD_subpopulation; DAPA-CKD enrolled eGFR 25-75, not full >=20 range or heart failure without albuminuria"
+    }
+  ],
+  "x1": {
+    "source_id": "DAPACKD2020",
+    "design": "randomized_controlled_trial",
+    "doi": "10.1056/NEJMoa2024816",
+    "pmid": "32970396",
+    "linkage_note": "DAPA-CKD directly supports SGLT2 inhibitor benefit in albuminuric CKD with eGFR 25-75, a subset of Recommendation 3.7.2. This is one supporting pivotal primary trial, not proof of the entire eGFR>=20 or heart-failure arms of the recommendation.",
+    "picot": {
+      "P": "4,304 adults with CKD (with or without type 2 diabetes), eGFR 25-75 mL/min/1.73 m2 and urine ACR 200-5000 mg/g.",
+      "I": "Dapagliflozin 10 mg once daily added to standard CKD treatment.",
+      "C": "Matching placebo added to standard CKD treatment.",
+      "O": "Composite of sustained >=50% eGFR fall, kidney failure, or renal/cardiovascular death: 197/2152 (9.2%) vs 312/2152 (14.5%); HR 0.61 (95% CI 0.51-0.72), NNT 19 (95% CI 15-27) over follow-up.",
+      "T": "Median follow-up 2.4 years; randomized double-blind trial stopped early for efficacy."
+    },
+    "limitations": "No direct randomization evidence for eGFR 20-24 or nonalbuminuric CKD in this specific trial; stopping early may affect estimated benefit and event precision. Guideline generalizes from several RCTs and meta-analyses, not DAPA-CKD alone."
+  },
+  "sources": [
+    {
+      "id": "KDIGO2024",
+      "title": "KDIGO 2024 Clinical Practice Guideline for the Evaluation and Management of CKD",
+      "url": "https://kdigo.org/wp-content/uploads/2024/03/KDIGO-2024-CKD-Guideline.pdf",
+      "verification": "Original official guideline and official summary recommendation 3.7.2 checked 2026-11-12. KDIGO 2027 focused update currently under review, not finalized."
+    },
+    {
+      "id": "DAPACKD2020",
+      "title": "Heerspink et al., Dapagliflozin in Patients with Chronic Kidney Disease (NEJM 2020)",
+      "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2024816",
+      "verification": "Primary trial full article/abstract inspected 2026-11-12; DOI, patient count, PICOT, event rates and CI checked."
+    },
+    {
+      "id": "KDIGOSTATUS2026",
+      "title": "KDIGO current CKD guideline status and 2027 focused-update review",
+      "url": "https://kdigo.org/guidelines/ckd-evaluation-and-management/",
+      "verification": "Official KDIGO portal shows 2027 focused update was a public-review draft as of 2026-11-12; not treated as approved guideline."
+    }
+  ],
+  "blockers": [
+    "Clinical reviewer assignment, independent methods check and signed approval pending.",
+    "Civilian L1-L4 tier assignment and stand-alone VA/DoD mapping remain pending.",
+    "Guideline eGFR >=20 and heart-failure pathways extend beyond DAPA-CKD enrollment; cross-trial evidence mapping required.",
+    "Focused KDIGO 2027 medications-management update was in public review as of 2026-11-12, so newer guidance may alter future versions.",
+    "Reference-document inventory not exhaustive."
+  ]
+}

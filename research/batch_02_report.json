@@ -1,0 +1,58 @@
+{
+  "schema_version": "1.0.0",
+  "batch": "02",
+  "date": "2026-11-12",
+  "execution": "chat_assisted_connected_github_workflow",
+  "remote_autonomous_research_agent": "not_running",
+  "branch": "agentic/evidence-batch-02-2026-11-12",
+  "base_ref": "main",
+  "scope": "two new research-stage reference documents and PICOT X1 candidates; no clinical approval",
+  "new_reference_documents": 2,
+  "registry_total_reference_documents": 2,
+  "reference_inventory_exhaustive": false,
+  "curriculum_weeks": 26,
+  "curriculum_provisional_slots": 78,
+  "unit_status_counts": {
+    "drafts": 3,
+    "not_started": 75,
+    "indexed_complete": 0
+  },
+  "new_directly_linked_primary_studies_research_checked": 2,
+  "new_picot_summaries_research_checked": 2,
+  "independently_clinically_verified_x1": 0,
+  "human_clinical_approvals": 0,
+  "validation": {
+    "draft_schema": "not_yet_confirmed_by_ci_at_report_creation",
+    "clinical_completion": false
+  },
+  "sources": [
+    {
+      "unit": "OMM-W02-S03",
+      "guideline": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11095842/",
+      "primary": "https://pubmed.ncbi.nlm.nih.gov/21870978/",
+      "note": "Class recommendation broader than single apixaban trial."
+    },
+    {
+      "unit": "OMM-W07-S02",
+      "guideline": "https://kdigo.org/wp-content/uploads/2024/03/KDIGO-2024-CKD-Guideline.pdf",
+      "primary": "https://pubmed.ncbi.nlm.nih.gov/32970396/",
+      "note": "DAPA-CKD population narrower than full 2024 recommendation."
+    }
+  ],
+  "outputs": [
+    "research/drafts/OMM-W02-S03.json",
+    "research/drafts/OMM-W07-S02.json",
+    "research/reference_registry.csv",
+    "research/reference_inventory_manifest.json",
+    "research/agent_queue.json",
+    "research/AGENT_PROGRESS.md",
+    "agents/runtime/validate_reference_inventory.py",
+    "tests/test_reference_inventory.py",
+    ".github/workflows/validate-reference-inventory.yml"
+  ],
+  "constraints": {
+    "human_clinical_signoff_required": true,
+    "completion_watch_notifications_only_on_full_completion": true,
+    "token_budget": "two new cards per run; account remaining-tokens meter unavailable"
+  }
+}
